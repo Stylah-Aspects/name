@@ -8,7 +8,6 @@ names = []
 asked=[]
 score=0
  
- 
 anime_questions_answers = {
 1: ["What was the date that Anime had offically been released?",'October 1982','April 2022', 'February 2018','March 2020','March 2020',4],  
  2: ["What nerf was made to make the Goku viable?", 'Decreased vertical recoil control','Decreased horizontal recoil control', 'TTK Headshot damage from 1.2 to 1.0', 'All of them', 'Decreased vertical recoil control',1],
